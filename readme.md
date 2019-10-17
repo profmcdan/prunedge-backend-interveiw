@@ -27,7 +27,7 @@ There should be:
 ## Tools/Stack
 
 - NodeJs (JavaScript or TypeScript)
-- MongoDB
+- MongoDB/POSTGRES/MYSQL
 - Redis
 - Docker
 - POSTMAN
